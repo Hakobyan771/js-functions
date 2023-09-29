@@ -23,5 +23,23 @@ var firstNammeEl = document.getElementById('first-name');
 
 firstNammeEl.addEventListener('keyup', onFirstNmaeKeyup)
 
+var buttonPlus = document.getElementById('buttonPlus');
+var buttonMinus = document.getElementById('buttonMinus');
+var buttonMultiplay = document.getElementById('buttonMultiplay');
+var buttonDevide = document.getElementById('buttonDevide');
 
+
+  
+function onButtonClick() {
+  console.log('onButtonPlusClick')
+}
+function onButtonClick() {
+  console.log('onButtonPlusClick')
+}
+function onButtonClick() {
+  console.log('onButtonPlusClick')
+}
+function onButtonClick() {
+  console.log('onButtonPlusClick')
+}
 
